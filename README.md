@@ -1,10 +1,16 @@
-<div align="right">
-  <img height="200" src="https://i.ibb.co.com/3vWWGCM/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
+<br clear="both">
+
+<div align="left">
+  <img height="162" src="https://i.ibb.co.com/3vWWGCM/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
 </div>
 
 ###
 
-<p align="left">Hi there, I’m Shohidul Islam 👋<br><br>Designation: Front-End Developer | Chemical Engineering Student<br><br>About Me<br><br>I am a passionate developer and a second-year student at Jashore University of Science and Technology, pursuing a degree in Chemical Engineering. I love coding and always strive to create something new and meaningful.<br><br>Current Activities:<br><br>🔄 Exploring Next.js and enhancing my web development skills.<br><br>🏞️ Building a tourism website to showcase beautiful destinations.<br><br>🔧 Working on integrating advanced DaisyUI components into projects.<br><br>🖥️ Developing portfolio websites to display my skills and projects.<br><br>📖 Learning advanced React patterns and state management techniques.</p>
+<h3 align="left">Hi there, I’m Shohidul Islam 👋<br><br>Front-End Developer | Chemical Engineering Student</h3>
+
+###
+
+<h5 align="left">About Me<br><br>I am a passionate developer and a second-year student at Jashore University of Science and Technology, pursuing a degree in Chemical Engineering. I love coding and always strive to create something new and meaningful.<br><br>Current Activities:<br><br>🔄 Exploring Next.js and enhancing my web development skills.<br><br>🏞️ Building a tourism website to showcase beautiful destinations.<br><br>🔧 Working on integrating advanced DaisyUI components into projects.<br><br>🖥️ Developing portfolio websites to display my skills and projects.<br><br>📖 Learning advanced React patterns and state management techniques.</h5>
 
 ###
 
@@ -32,8 +38,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohidulislam12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohidulislam12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shohidulislam12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 

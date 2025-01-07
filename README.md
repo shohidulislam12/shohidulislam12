@@ -1,12 +1,12 @@
 <br clear="both">
 
-<div align="left">
-  <img height="162" src="https://i.ibb.co.com/3vWWGCM/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
+<div align="center">
+  <img height="179" src="https://i.ibb.co.com/3vWWGCM/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
 </div>
 
 ###
 
-<h3 align="left">Hi there, I’m Shohidul Islam 👋<br><br>Front-End Developer | Chemical Engineering Student</h3>
+<h3 align="center">Hi there, I’m Shohidul Islam 👋<br><br>Front-End Developer | Chemical Engineering Student</h3>
 
 ###
 

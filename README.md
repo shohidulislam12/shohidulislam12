@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Hi there, I’m Shohidul Islam 👋<br><br>Front-End Developer | Chemical Engineering Student</h3>
+<h3 align="center">Hello and warm wishes! i'm.... 👋<br><br>Front-End Developer | Chemical Engineering Student</h3>
 
 ###
 

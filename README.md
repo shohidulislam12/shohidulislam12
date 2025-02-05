@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img height="179" src="https://i.ibb.co.com/3vWWGCM/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
+  <img height="200" src="https://i.ibb.co.com/np1Z91G/Black-and-White-Gradient-Personal-Linked-In-Banner-6.png"  />
 </div>
 
 ###
 
-<h3 align="center">Hello and warm wishes! i'm.... 👋<br><br>Front-End Developer | Chemical Engineering Student</h3>
+<h3 align="center">Hello and warm wishes! i'm.... 👋<br><br>Web  Developer | Chemical Engineering Student</h3>
 
 ###
 

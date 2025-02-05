@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/np1Z91G/Black-and-White-Gradient-Personal-Linked-In-Banner-6.png"  />
+  <img height="200" src="https://i.ibb.co.com/tw5HMC1n/Black-and-White-Gradient-Personal-Linked-In-Banner-2.png"  />
 </div>
 
 ###

@@ -40,7 +40,10 @@
 
 ###
 
-<p align="left">Connect with Me<br><br>📧 Email:shohidulislamsifat2003@gmail.com<br><br>🛠️ LinkedIn: https://www.linkedin.com/in/shohidulislam200/<br><br>🌐 Portfolio: https://mple-firebase.web.app/</p>
+<p align="left">Connect with Me<br><br>
+  📧 Email:shohidulislamsifat2003@gmail.com<br><br>
+  🛠️ LinkedIn: https://www.linkedin.com/in/shohidulislam200/<br>
+  <br>🌐 Portfolio: https://mple-firebase.web.app/</p> 
 
 ###
 
